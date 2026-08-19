@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a **17-year-old Full Stack Developer** passionate about creating innovative solutions and learning new technologies. Born on August 11, 2008, I've been coding since I discovered the magic of transforming ideas into reality through programming.
+I'm a **18-year-old Full Stack Developer** passionate about creating innovative solutions and learning new technologies. Born on August 11, 2008, I've been coding since I discovered the magic of transforming ideas into reality through programming.
 
 ```javascript
 const ngeff = {
   pronouns: "he/him",
-  age: 17,
+  age: 18,
   location: "Brazil",
   role: "Full Stack Developer",
   passions: ["Coding", "Problem Solving", "Learning"],
