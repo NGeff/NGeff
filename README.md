@@ -1,110 +1,33 @@
-# 👋 Hi, I'm NGeff
+### Hi, I'm Geff
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Node.js+Enthusiast;Python+%7C+Lua+%7C+React;Mobile+%26+Web+Developer)
-  
-</div>
+Full stack developer from Brazil, 18. I build Android apps, websites, APIs and bots, from the database to the screen.
+I co-run **[GLD Solutions](https://gldsolutions.com.br)** with [@lucaaszsx](https://github.com/lucaaszsx), where we ship open source software with no ads and no tracking.
 
-## 🚀 About Me
-
-I'm a **18-year-old Full Stack Developer** passionate about creating innovative solutions and learning new technologies. Born on August 11, 2008, I've been coding since I discovered the magic of transforming ideas into reality through programming.
-
-```javascript
-const ngeff = {
-  pronouns: "he/him",
-  age: 18,
-  location: "Brazil",
-  role: "Full Stack Developer",
-  passions: ["Coding", "Problem Solving", "Learning"],
-  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
-
-## 💻 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🔥 What I Do
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🌐 Web Development                                     │
-│     └─ Building responsive and modern websites         │
-│                                                         │
-│  📱 Mobile Development                                  │
-│     └─ Creating Android applications                   │
-│                                                         │
-│  🔧 Backend Development                                 │
-│     └─ APIs with Node.js and MongoDB                   │
-│                                                         │
-│  🎨 Frontend Development                                │
-│     └─ Interactive UIs with React                      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![NGeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGeff&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGeff&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NGeff&theme=tokyonight&hide_border=true)
-  
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 Working on personal projects to expand my portfolio
-- 🌱 Learning advanced patterns in React and Node.js
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about JavaScript, Python, or web development
-- ⚡ Always exploring new technologies and frameworks
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NGeff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
+**Portfolio:** [geff.gldsolutions.com.br](https://geff.gldsolutions.com.br)
 
 ---
 
-<div align="center">
-  
-  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NGeff&color=blueviolet&style=flat-square)
-  
-  ⭐️ From [NGeff](https://github.com/NGeff)
-  
-</div>
+#### Working on now
+
+**[Lince](https://github.com/gldsolutions/lince)** · v1.0.0 · Android · Kotlin · GPL-3.0
+A file manager with APK tools: dual panes, archives (ZIP, 7z, TAR, RAR), an APK editor with automatic signing, a terminal running Debian, Ubuntu, Arch or Alpine without root, and network access over FTP, SFTP, SMB and WebDAV.
+[Download and docs](https://gldsolutions.com.br/lince/index.html)
+
+#### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [GLD REST API](https://github.com/NGeff/gld-rest-api) | Multi-purpose API with a dashboard, API keys, plans and payments | Node.js, Express, MongoDB, React |
+| [ShopBot](https://github.com/NGeff/discord-shop-bot) | Full store inside Discord, with PIX payments | discord.js, Mercado Pago |
+| [Ticket System](https://github.com/NGeff/advanced-ticket-system) | Self-hosted support ticket bot for Discord | discord.js |
+| [MathLab](https://github.com/NGeff/mathlab) | Collaborative platform for learning math | React, Node.js, MongoDB |
+| [GL Bot](https://github.com/NGeff/gl-bot) | Modular WhatsApp bot | Node.js, Baileys |
+| [TaskFlow](https://github.com/NGeff/taskflow) | Task manager with subtasks, priorities and categories | React, Express |
+
+#### Tools
+
+`JavaScript` `Kotlin` `Python` `Lua` · `Node.js` `Express` `MongoDB` · `React` · `Android` · `discord.js` `Baileys`
+
+#### Contact
+
+[Portfolio](https://geff.gldsolutions.com.br) · [LinkedIn](https://www.linkedin.com/in/ngeff) · [Instagram](https://www.instagram.com/geff.vv) · contato@gldsolutions.com.br
